@@ -26,5 +26,5 @@
 ### Day 2: August 27, 2018
 
 **Today's Progress** :
-* Practiced handling missing data
-* Practiced handling categorical variables using OneHotEncoder from sklearn
+* Practiced handling missing data - [Link for code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_02_Data_Preprocessing_practice/data_preprocessing.ipynb)
+* Practiced handling categorical variables using OneHotEncoder from sklearn - [Link for code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_02_Data_Preprocessing_practice/categorical_variables_one-hot-encoding.ipynb)
