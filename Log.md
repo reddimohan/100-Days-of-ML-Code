@@ -5,7 +5,7 @@
 
 ### Day 1: August 26, 2018
 
-**Today's Progress** : 
+**Today's Progress** :
 * Basic understanding of Machine learning - source: Andrew Ng course from Coursera
 * Types Machine learning
 	* Supervised learning - The main goal in supervised learning is to learn a model from labeled training data that allows us to make predictions about unseen or future data.
@@ -15,10 +15,16 @@
 * Importing libraries
 * Reading datasets using pandas and numpy libraries
 * Read about Data Preprocessing
-    *    Handling missing data in dataset
-    * Handling Categorical variables (3 types)
+    * Handling missing data in dataset
+    * Handling Categorical variables
 	    * LabelEncoder
 	    * RangeEncoder
 	    * OneHotEncoders
 
 #### I will do some practicals tomorrow based on today readings and upload here.
+
+### Day 2: August 27, 2018
+
+**Today's Progress** :
+* Practiced handling missing data
+* Practiced handling categorical variables using OneHotEncoder from sklearn
