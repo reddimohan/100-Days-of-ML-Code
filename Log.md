@@ -16,10 +16,8 @@
 * Reading datasets using pandas and numpy libraries
 * Read about Data Preprocessing
     * Handling missing data in dataset
-    * Handling Categorical variables
-	    * LabelEncoder
-	    * RangeEncoder
-	    * OneHotEncoders
+    * Handling Categorical variables with OneHotEncoders
+ Since Machine Learning models are based on mathematical equations, so it can cause problems with this kind of variables.
 
 #### I will do some practicals tomorrow based on today readings and upload here.
 
@@ -28,3 +26,10 @@
 **Today's Progress** :
 * Practiced handling missing data - [Link for code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_02_Data_Preprocessing_practice/data_preprocessing.ipynb)
 * Practiced handling categorical variables using OneHotEncoder from sklearn - [Link for code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_02_Data_Preprocessing_practice/categorical_variables_one-hot-encoding.ipynb)
+
+
+### Day 3: August 28, 2018
+
+**Today's Progress** :
+* Splitting dataset into train and test Link for code
+* Feature scaling
