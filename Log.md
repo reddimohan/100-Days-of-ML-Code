@@ -33,3 +33,8 @@
 **Today's Progress** :
 * Splitting dataset into train and test - [Link for code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_03_split_dataset_into_train_test/train_test_split.ipynb)
 * Feature scaling
+
+### Day 4: August 29, 2018
+
+**Today's Progress** :
+* Started reading about Linear Regression
