@@ -38,3 +38,9 @@
 
 **Today's Progress** :
 * Started reading about Linear Regression
+
+
+### Day 5: August 30, 2018
+
+**Today's Progress** :
+* Continued reading about Linear Regression
