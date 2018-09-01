@@ -44,3 +44,8 @@
 
 **Today's Progress** :
 * Continued reading about Linear Regression
+
+### Day 6: August 31, 2018
+
+**Today's Progress** :
+* Completed reading about Linear algebra toipc - Andrew Ng [course link](https://www.youtube.com/playlist?list=PLnnr1O8OWc6boN4WHeuisJWmeQHH9D_Vg)
