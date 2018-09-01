@@ -34,6 +34,7 @@
 * Splitting dataset into train and test - [Link for code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_03_split_dataset_into_train_test/train_test_split.ipynb)
 * Feature scaling
 
+
 ### Day 4: August 29, 2018
 
 **Today's Progress** :
@@ -45,7 +46,14 @@
 **Today's Progress** :
 * Continued reading about Linear Regression
 
+
 ### Day 6: August 31, 2018
 
 **Today's Progress** :
 * Completed reading about Linear algebra toipc - Andrew Ng [course link](https://www.youtube.com/playlist?list=PLnnr1O8OWc6boN4WHeuisJWmeQHH9D_Vg)
+
+
+### Day 7: Sept 1, 2018
+
+**Today's Progress** :
+* Completed Week 1 from Andrew Ng course from Coursera  - [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
