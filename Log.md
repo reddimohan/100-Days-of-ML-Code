@@ -57,3 +57,9 @@
 
 **Today's Progress** :
 * Completed Week 1 from Andrew Ng course from Coursera  - [Week 1](https://www.coursera.org/learn/machine-learning/home/week/1)
+
+
+### Day 8: Sept 2, 2018
+
+**Today's Progress** :
+* Read about Introduction to Computer vision
