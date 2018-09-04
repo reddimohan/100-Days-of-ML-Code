@@ -63,3 +63,12 @@
 
 **Today's Progress** :
 * Read about Introduction to Computer vision
+
+
+### Day 9: Sept 3, 2018
+
+**Today's Progress** :
+* Read about,
+    * Viola & Jones Algorithm
+    * Haar like features
+    * Integral Image
