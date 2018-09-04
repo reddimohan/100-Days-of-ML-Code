@@ -1,0 +1,3 @@
+Link to inistall openCV: http://www.codebind.com/linux-tutorials/install-opencv-ubuntu-18-04-lts-python/
+
+Note: Installed, but not able to import cv2. Need to debug this tomorrow
