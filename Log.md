@@ -78,5 +78,11 @@
 
 **Today's Progress** :
 * Read about,
-    * Read about Training Classifier
     * Started Installing openCV from http://www.codebind.com/linux-tutorials/install-opencv-ubuntu-18-04-lts-python/, all steps are done, and still not able to import it. Will debug this tomorrow.
+
+
+### Day 11: Sept 5, 2018
+
+**Today's Progress** :
+* Read about Training Classifier
+* Read about Adaboost boosting algorithm
