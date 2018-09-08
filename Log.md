@@ -94,3 +94,9 @@
 * Worked on Basic face and smile detection using opencv, But It is not very accurate. [Here is the code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_12_Basic_face_detection/face_detection.ipynb)
 
 **Note:** Does anybody know, which parameter I should be changing to increase the accuracy.
+
+
+### Day 13: Sept 7, 2018
+
+**Today's Progress** :
+* Read about SSD (Single Shot Multibox Detector) Algorithm and Predicting Object position. 
