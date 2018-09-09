@@ -100,3 +100,10 @@
 
 **Today's Progress** :
 * Read about SSD (Single Shot Multibox Detector) Algorithm and Predicting Object position. 
+
+
+
+### Day 14: Sept 8, 2018
+
+**Today's Progress** :
+* Read about Object Detection with SSD
