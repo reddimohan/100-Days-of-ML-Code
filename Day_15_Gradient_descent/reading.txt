@@ -1,0 +1,2 @@
+- Read about Gradient descent
+- Read about back propagation

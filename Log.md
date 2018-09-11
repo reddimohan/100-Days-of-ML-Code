@@ -107,3 +107,10 @@
 
 **Today's Progress** :
 * Read about Object Detection with SSD
+
+
+### Day 15: Sept 9, 2018
+
+**Today's Progress** :
+* Read about Gradient descent
+* Read about back propagation
