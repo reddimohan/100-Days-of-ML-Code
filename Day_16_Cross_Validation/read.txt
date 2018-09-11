@@ -1,0 +1,11 @@
+- Read about Cross Validation 
+-- We do Cross validation after training the model to test the error rate. If error rate is low it means we have builded a good model, If error rate is high then model is not good. 
+-- This is one method where we can check the performance of the model 
+-- It helps in selecting the best fit model 
+-- It ensures that model is not over fit
+
+-Types of Cross Validation
+-- Hold Out Method
+-- K-Fold CV
+-- Leave One out CV
+-- Bootstrap method
