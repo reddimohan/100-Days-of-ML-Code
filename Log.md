@@ -1,3 +1,4 @@
+
 ## 100 Days Of Machine Learning - LOG
 #### Two reasons why I am going to log/document my everyday progress here is, 
 1. To keep track of my work
@@ -113,4 +114,24 @@
 
 **Today's Progress** :
 * Read about Gradient descent
+Gradient descent is a optimization algorithm used to find the values of parameters (coefficients) of a function (f) that minimizes a cost function.
 * Read about back propagation
+
+
+### Day 16: Sept 10, 2018
+
+**Today's Progress** :
+* Read about *Cross Validation*
+-- We do *Cross validation* after training the model to test the *error rate*. If *error rate* is low it means we have builded a good model, If *error rate* is high then model is not good.
+--  This is one method where we can check the performance of the model
+-- It helps in selecting the *best fit model*
+-- It ensures that *model is not over fit*
+* Types of *Cross Validation*
+	* Hold Out Method
+	* K-Fold CV
+	* Leave One out CV
+	* Bootstrap method
+* 
+k - fold cross validation
+Gradient decent 
+variance and bias trade off
