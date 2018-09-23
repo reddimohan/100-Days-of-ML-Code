@@ -133,5 +133,9 @@ Gradient descent is a optimization algorithm used to find the values of paramete
 	* Bootstrap method
 * 
 k - fold cross validation
-Gradient decent 
 variance and bias trade off
+
+### Missed somedays between due to medical emergency
+
+### Day 17: Sept 23, 2018
+* Started with Titanic survival prediction challenge in Kaggle
