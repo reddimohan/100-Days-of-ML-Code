@@ -144,4 +144,4 @@ variance and bias trade off
 
 ### Day 18: Sept 24, 2018
 * Read about KNeighborsClassifier
-* Continuing working on Kaggale Titanic dataset
+* Continued working on Kaggale Titanic dataset [Code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_17_to_%3F%3F_Kaggle_Titanic:%20Machine%20Learning%20from%20Disaster/Titanic%20survival%20prediction.ipynb)
