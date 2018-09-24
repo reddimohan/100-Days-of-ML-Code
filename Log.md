@@ -139,3 +139,9 @@ variance and bias trade off
 
 ### Day 17: Sept 23, 2018
 * Started with Titanic survival prediction challenge in Kaggle
+
+
+
+### Day 18: Sept 24, 2018
+* Read about KNeighborsClassifier
+* Continuing working on Kaggale Titanic dataset
