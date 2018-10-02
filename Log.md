@@ -147,4 +147,6 @@ variance and bias trade off
 * Continued working on Kaggale Titanic dataset [Code](https://github.com/reddimohan/100-Days-of-ML-Code/blob/master/Day_17_to_%3F%3F_Kaggle_Titanic:%20Machine%20Learning%20from%20Disaster/Titanic%20survival%20prediction.ipynb)
 
 ### Day 19 to 25 : Sept 24, 2018
-* Blocked with pandas error
+* Learning about productionizing Machile learning models with Flask, Gunicorn and Nginx
+
+
