@@ -151,3 +151,6 @@ variance and bias trade off
 
 ### Day 26 and 27 : Oct 1 & 2, 2018
 * Completed Titanic Kaggle challenge with 78% Model accuracy
+
+### Day 27 and 29 : Oct 3 & 5, 2018
+* Read about Feature Engineering
